@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "568995113376",
+    "project_id": "fir-manvin",
+    "storage_bucket": "fir-manvin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568995113376:android:127f7c7e769b2e82d5dcc5",
+        "android_client_info": {
+          "package_name": "com.example.firebase_manvin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568995113376-sehfgifi3v40ch7d5vsfakapeeu7stdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPkCAX378_jm0L8h318IpRvXckHoye_N0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568995113376-sehfgifi3v40ch7d5vsfakapeeu7stdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
